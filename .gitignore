@@ -1,0 +1,10 @@
+py_client
+js_client
+drf
+backend/cfehome/routers.py
+backend/cfehome/settings.py
+backend/product/migrations
+backend/product/viewsets.py
+manage.py
+backend/search/migrations
+venv
